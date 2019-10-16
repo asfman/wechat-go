@@ -1,0 +1,6 @@
+[web]
+appid = "wx782c26e4c19acffb"
+login_url = "https://login.weixin.qq.com"
+base_url = "https://wx.qq.com"
+base_push_url = "https://webpush.wx.qq.com"
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36"
