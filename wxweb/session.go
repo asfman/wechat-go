@@ -4,9 +4,9 @@ import (
   "fmt"
   "os"
   "time"
-	"encoding/json"
+  "encoding/json"
 
-	"github.com/mdp/qrterminal"
+  "github.com/mdp/qrterminal"
 )
 
 type Session struct {
